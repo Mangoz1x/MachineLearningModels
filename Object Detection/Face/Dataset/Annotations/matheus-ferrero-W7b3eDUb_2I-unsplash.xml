@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>matheus-ferrero-W7b3eDUb_2I-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1727</width>
+        <height>2591</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>393.77036830357133</xmin>
+        <ymin>566.4307359307359</ymin>
+        <xmax>1461.9310825892853</xmax>
+        <ymax>1690.87987012987</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>rui-silvestre-hAMJpesMeDE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/rui-silvestre-hAMJpesMeDE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>4960</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1552.1812080536913</xmin>
+        <ymin>2297.4891774891776</ymin>
+        <xmax>2475.6711409395975</xmax>
+        <ymax>3397.9220779220777</ymax>
+    </bndbox>
+</object>
+</annotation>

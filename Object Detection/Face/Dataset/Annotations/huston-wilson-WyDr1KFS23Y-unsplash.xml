@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>huston-wilson-WyDr1KFS23Y-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/huston-wilson-WyDr1KFS23Y-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3168</width>
+        <height>4752</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>959.1428571428572</xmin>
+        <ymin>684</ymin>
+        <xmax>2131.714285714286</xmax>
+        <ymax>2350.2857142857147</ymax>
+    </bndbox>
+</object>
+</annotation>

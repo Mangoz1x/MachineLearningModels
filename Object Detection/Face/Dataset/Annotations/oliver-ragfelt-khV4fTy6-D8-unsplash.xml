@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>oliver-ragfelt-khV4fTy6-D8-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/oliver-ragfelt-khV4fTy6-D8-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1536</width>
+        <height>2304</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>502.4415584415584</xmin>
+        <ymin>832.8311688311688</ymin>
+        <xmax>1110.8571428571427</xmax>
+        <ymax>1645.7142857142858</ymax>
+    </bndbox>
+</object>
+</annotation>

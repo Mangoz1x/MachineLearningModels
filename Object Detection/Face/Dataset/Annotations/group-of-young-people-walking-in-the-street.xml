@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>group-of-young-people-walking-in-the-street.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/group-of-young-people-walking-in-the-street.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>500</width>
+        <height>333</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>102.45246034607065</xmin>
+        <ymin>48.29220779220779</ymin>
+        <xmax>146.43227289113193</xmax>
+        <ymax>95.14285714285714</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>199.78483237202593</xmin>
+        <ymin>64.14935064935065</ymin>
+        <xmax>232.2289563806777</xmax>
+        <ymax>104.51298701298701</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>267.55700252343183</xmin>
+        <ymin>68.83441558441558</ymin>
+        <xmax>303.9665194664744</xmax>
+        <ymax>113.88311688311688</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>333.8872116077866</xmin>
+        <ymin>50.09415584415584</ymin>
+        <xmax>367.41280641672677</xmax>
+        <ymax>95.14285714285714</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>stefan-stefancik-QXevDflbl8A-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/stefan-stefancik-QXevDflbl8A-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4912</width>
+        <height>7360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1360.1045380875203</xmin>
+        <ymin>1035.4978354978355</ymin>
+        <xmax>3660.8630470016205</xmax>
+        <ymax>3950.8225108225106</ymax>
+    </bndbox>
+</object>
+</annotation>

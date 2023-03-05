@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>rowan-kyle-m663zRzRe40-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/rowan-kyle-m663zRzRe40-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4143</width>
+        <height>6073</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1490.7401785714285</xmin>
+        <ymin>1340.7922077922078</ymin>
+        <xmax>2727.0639880952376</xmax>
+        <ymax>2701.301948051948</ymax>
+    </bndbox>
+</object>
+</annotation>

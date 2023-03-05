@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>clem-onojeghuo-hodKTZow_Kk-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/clem-onojeghuo-hodKTZow_Kk-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5400</width>
+        <height>4047</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1471.39598540146</xmin>
+        <ymin>801.5162337662338</ymin>
+        <xmax>2430.520072992701</xmax>
+        <ymax>1988.4610389610389</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3245.118613138686</xmin>
+        <ymin>652.6006493506494</ymin>
+        <xmax>3621.7609489051097</xmax>
+        <ymax>1103.7272727272727</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4020.3010948905107</xmin>
+        <ymin>341.62987012987014</ymin>
+        <xmax>4497.673357664234</xmax>
+        <ymax>967.9512987012987</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4537.089416058394</xmin>
+        <ymin>232.13311688311688</ymin>
+        <xmax>5036.359489051095</xmax>
+        <ymax>889.1136363636365</ymax>
+    </bndbox>
+</object>
+</annotation>

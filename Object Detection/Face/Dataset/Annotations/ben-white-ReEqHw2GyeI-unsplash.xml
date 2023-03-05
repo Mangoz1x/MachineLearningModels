@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ben-white-ReEqHw2GyeI-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ben-white-ReEqHw2GyeI-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>6016</width>
+        <height>4016</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2019.5057803468205</xmin>
+        <ymin>1303.8961038961038</ymin>
+        <xmax>2797.586705202312</xmax>
+        <ymax>2073.194805194805</ymax>
+    </bndbox>
+</object>
+</annotation>

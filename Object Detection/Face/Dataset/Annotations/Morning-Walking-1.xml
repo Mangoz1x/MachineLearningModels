@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Morning-Walking-1.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/Morning-Walking-1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1200</width>
+        <height>750</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>535.079255685734</xmin>
+        <ymin>144.24269570011026</ymin>
+        <xmax>634.3211578221916</xmax>
+        <ymax>251.7399393605292</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>792.2811853893867</xmin>
+        <ymin>136.800578831312</ymin>
+        <xmax>889.0420399724328</xmax>
+        <ymax>231.06739250275632</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>349.8277050310131</xmin>
+        <ymin>144.24269570011026</ymin>
+        <xmax>430.8752584424535</xmax>
+        <ymax>240.1633131201764</ymax>
+    </bndbox>
+</object>
+</annotation>

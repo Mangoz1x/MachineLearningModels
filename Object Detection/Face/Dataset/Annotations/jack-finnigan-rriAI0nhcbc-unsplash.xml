@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jack-finnigan-rriAI0nhcbc-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/jack-finnigan-rriAI0nhcbc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2363</width>
+        <height>3992</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>492.40416476234003</xmin>
+        <ymin>989.3593073593073</ymin>
+        <xmax>1974.1390824954296</xmax>
+        <ymax>2821.186147186147</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>yingchou-han-IJrIeCs3D4g-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/yingchou-han-IJrIeCs3D4g-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5184</width>
+        <height>3456</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1221.1948051948052</xmin>
+        <ymin>875.2207792207791</ymin>
+        <xmax>2313.3506493506493</xmax>
+        <ymax>2277.818181818182</ymax>
+    </bndbox>
+</object>
+</annotation>

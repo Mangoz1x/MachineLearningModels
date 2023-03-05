@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jeremy-mcknight-ix9I7kfMpcc-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/jeremy-mcknight-ix9I7kfMpcc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>7589</width>
+        <height>5062</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3502.1214462996386</xmin>
+        <ymin>602.6190476190477</ymin>
+        <xmax>5474.713504061371</xmax>
+        <ymax>2837.787878787879</ymax>
+    </bndbox>
+</object>
+</annotation>

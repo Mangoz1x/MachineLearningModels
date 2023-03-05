@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>krakenimages-376KN_ISplE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/krakenimages-376KN_ISplE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>9504</width>
+        <height>6336</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1950.8571428571427</xmin>
+        <ymin>836.5714285714286</ymin>
+        <xmax>3164.5714285714284</xmax>
+        <ymax>2441.142857142857</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6030.857142857142</xmin>
+        <ymin>1460.5714285714284</ymin>
+        <xmax>7470.857142857142</xmax>
+        <ymax>2893.7142857142853</ymax>
+    </bndbox>
+</object>
+</annotation>

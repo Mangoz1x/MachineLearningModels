@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>sean-stratton-_4gaNP2KI84-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/sean-stratton-_4gaNP2KI84-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2189</width>
+        <height>1459</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>904.4579613095237</xmin>
+        <ymin>186.32251082251082</ymin>
+        <xmax>1594.6405009920634</xmax>
+        <ymax>1192.1482683982683</ymax>
+    </bndbox>
+</object>
+</annotation>

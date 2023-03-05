@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>pavel-anoshin-d0peGya6R5Y-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/pavel-anoshin-d0peGya6R5Y-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2848</width>
+        <height>4207</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>437.9624600638977</xmin>
+        <ymin>988.0075757575758</ymin>
+        <xmax>2517.093450479233</xmax>
+        <ymax>3364.689393939394</ymax>
+    </bndbox>
+</object>
+</annotation>

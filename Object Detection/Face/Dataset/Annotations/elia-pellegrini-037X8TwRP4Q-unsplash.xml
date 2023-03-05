@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>elia-pellegrini-037X8TwRP4Q-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/elia-pellegrini-037X8TwRP4Q-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3368</width>
+        <height>5060</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1314.4270325203252</xmin>
+        <ymin>947.3809523809524</ymin>
+        <xmax>1615.6302845528455</xmax>
+        <ymax>1341.6666666666667</ymax>
+    </bndbox>
+</object>
+</annotation>

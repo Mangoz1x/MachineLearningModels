@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>luke-braswell-oYFv-_JKsVk-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/luke-braswell-oYFv-_JKsVk-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4912</width>
+        <height>7218</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>514.6764705882352</xmin>
+        <ymin>476.512987012987</ymin>
+        <xmax>4028.825914149443</xmax>
+        <ymax>4538.590909090909</ymax>
+    </bndbox>
+</object>
+</annotation>

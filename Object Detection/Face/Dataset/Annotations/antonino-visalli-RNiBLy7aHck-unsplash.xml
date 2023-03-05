@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>antonino-visalli-RNiBLy7aHck-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/antonino-visalli-RNiBLy7aHck-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4926</width>
+        <height>3284</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2187.556277056277</xmin>
+        <ymin>1176.4112554112553</ymin>
+        <xmax>2820.1883116883114</xmax>
+        <ymax>1873.0173160173158</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3321.3181818181815</xmin>
+        <ymin>1290.142857142857</ymin>
+        <xmax>4174.305194805194</xmax>
+        <ymax>1862.3549783549784</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>733.9242424242424</xmin>
+        <ymin>1112.4372294372295</ymin>
+        <xmax>1391.435064935065</xmax>
+        <ymax>1780.6103896103896</ymax>
+    </bndbox>
+</object>
+</annotation>

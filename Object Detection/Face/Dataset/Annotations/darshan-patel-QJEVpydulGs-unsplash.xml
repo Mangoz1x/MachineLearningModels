@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>darshan-patel-QJEVpydulGs-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/darshan-patel-QJEVpydulGs-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>781.090909090909</xmin>
+        <ymin>1274.181818181818</ymin>
+        <xmax>1863.272727272727</xmax>
+        <ymax>2626.9090909090905</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6-64570_two-old-men-walking-down-the-street-chatting.png</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/6-64570_two-old-men-walking-down-the-street-chatting.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>820</width>
+        <height>1367</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>443.5113944043321</xmin>
+        <ymin>35.506493506493506</ymin>
+        <xmax>627.0493005415162</xmax>
+        <ymax>247.0660173160173</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>175.6052572202166</xmin>
+        <ymin>60.6569264069264</ymin>
+        <xmax>329.5402752707581</xmax>
+        <ymax>258.9015151515151</ymax>
+    </bndbox>
+</object>
+</annotation>

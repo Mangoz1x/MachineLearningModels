@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>vince-fleming-j3lf-Jn6deo-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/vince-fleming-j3lf-Jn6deo-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3648</width>
+        <height>5472</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1163.6883116883116</xmin>
+        <ymin>384.93506493506493</ymin>
+        <xmax>2608.6753246753246</xmax>
+        <ymax>2380.6753246753246</ymax>
+    </bndbox>
+</object>
+</annotation>

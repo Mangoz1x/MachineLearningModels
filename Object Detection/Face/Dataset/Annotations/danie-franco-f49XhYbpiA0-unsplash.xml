@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>danie-franco-f49XhYbpiA0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/danie-franco-f49XhYbpiA0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3192</width>
+        <height>4782</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1028.9446920583468</xmin>
+        <ymin>393.3246753246753</ymin>
+        <xmax>2270.5654376012967</xmax>
+        <ymax>2173.6363636363635</ymax>
+    </bndbox>
+</object>
+</annotation>

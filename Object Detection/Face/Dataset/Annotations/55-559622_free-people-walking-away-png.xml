@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>55-559622_free-people-walking-away-png.png</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/55-559622_free-people-walking-away-png.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>820</width>
+        <height>1223</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>537.3190524193548</xmin>
+        <ymin>42.354978354978364</ymin>
+        <xmax>642.7741935483871</xmax>
+        <ymax>185.3030303030303</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>373.3190524193548</xmin>
+        <ymin>117.79978354978356</ymin>
+        <xmax>504.25453629032256</xmax>
+        <ymax>272.6601731601732</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>229.15776209677418</xmin>
+        <ymin>121.77056277056278</ymin>
+        <xmax>346.867439516129</xmax>
+        <ymax>283.24891774891773</ymax>
+    </bndbox>
+</object>
+</annotation>

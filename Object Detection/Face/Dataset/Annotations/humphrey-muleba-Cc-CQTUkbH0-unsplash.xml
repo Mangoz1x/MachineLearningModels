@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>humphrey-muleba-Cc-CQTUkbH0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/humphrey-muleba-Cc-CQTUkbH0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3113</width>
+        <height>4792</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1144.757109375</xmin>
+        <ymin>1509.168831168831</ymin>
+        <xmax>1850.3704427083335</xmax>
+        <ymax>2478.9783549783547</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>584.417109375</xmin>
+        <ymin>2323.393939393939</ymin>
+        <xmax>1134.3804427083332</xmax>
+        <ymax>2976.8484848484845</ymax>
+    </bndbox>
+</object>
+</annotation>

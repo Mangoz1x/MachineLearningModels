@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>austin-distel-7uoMmzPd2JA-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/austin-distel-7uoMmzPd2JA-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>6720</width>
+        <height>4480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2872.727272727273</xmin>
+        <ymin>678.7878787878788</ymin>
+        <xmax>3958.787878787879</xmax>
+        <ymax>2206.060606060606</ymax>
+    </bndbox>
+</object>
+</annotation>

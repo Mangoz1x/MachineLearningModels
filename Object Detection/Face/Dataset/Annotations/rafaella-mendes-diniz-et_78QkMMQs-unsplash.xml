@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>rafaella-mendes-diniz-et_78QkMMQs-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/rafaella-mendes-diniz-et_78QkMMQs-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3456</width>
+        <height>5184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>945.3506493506494</xmin>
+        <ymin>869.6103896103896</ymin>
+        <xmax>2303.064935064935</xmax>
+        <ymax>2395.6363636363635</ymax>
+    </bndbox>
+</object>
+</annotation>

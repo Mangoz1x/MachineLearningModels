@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gregory-hayes-h5cd51KXmRQ-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/gregory-hayes-h5cd51KXmRQ-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3648</width>
+        <height>5472</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1276.2077922077922</xmin>
+        <ymin>722.4935064935065</ymin>
+        <xmax>2220.779220779221</xmax>
+        <ymax>1930.5974025974028</ymax>
+    </bndbox>
+</object>
+</annotation>

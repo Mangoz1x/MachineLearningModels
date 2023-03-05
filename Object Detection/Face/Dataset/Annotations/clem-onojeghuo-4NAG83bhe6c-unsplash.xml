@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>clem-onojeghuo-4NAG83bhe6c-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/clem-onojeghuo-4NAG83bhe6c-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3037</width>
+        <height>5400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1835.8884014423077</xmin>
+        <ymin>672.0779220779222</ymin>
+        <xmax>2314.7999399038463</xmax>
+        <ymax>1268.1818181818182</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>alex-perri-At__EKm5PGE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/alex-perri-At__EKm5PGE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3264</width>
+        <height>4928</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>989.3333333333333</xmin>
+        <ymin>981.3333333333333</ymin>
+        <xmax>1837.3333333333333</xmax>
+        <ymax>1957.3333333333333</ymax>
+    </bndbox>
+</object>
+</annotation>

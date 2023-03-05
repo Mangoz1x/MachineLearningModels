@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>julian-wan-WNoLnJo7tS8-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/julian-wan-WNoLnJo7tS8-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1071.4285714285713</xmin>
+        <ymin>636.3636363636364</ymin>
+        <xmax>2854.978354978355</xmax>
+        <ymax>3047.6190476190477</ymax>
+    </bndbox>
+</object>
+</annotation>

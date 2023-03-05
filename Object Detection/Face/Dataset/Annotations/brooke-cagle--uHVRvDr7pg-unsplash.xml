@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>brooke-cagle--uHVRvDr7pg-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/brooke-cagle--uHVRvDr7pg-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3997</width>
+        <height>2665</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1379.691366792929</xmin>
+        <ymin>490.3138528138528</ymin>
+        <xmax>1944.9236900252522</xmax>
+        <ymax>1145.0270562770563</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>552.029750631313</xmin>
+        <ymin>109.5995670995671</ymin>
+        <xmax>1336.4337910353534</xmax>
+        <ymax>1130.6060606060605</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2729.327730429293</xmin>
+        <ymin>458.5876623376623</ymin>
+        <xmax>3063.8529829545455</xmax>
+        <ymax>1150.7954545454545</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>freestocks-9UVmlIb0wJU-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/freestocks-9UVmlIb0wJU-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5381</width>
+        <height>3587</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2382.1528792388167</xmin>
+        <ymin>749.232683982684</ymin>
+        <xmax>3554.636284722222</xmax>
+        <ymax>2069.124458874459</ymax>
+    </bndbox>
+</object>
+</annotation>

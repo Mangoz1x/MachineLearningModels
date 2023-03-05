@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>depositphotos_217608964-stock-video-front-view-man-walking-using.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/depositphotos_217608964-stock-video-front-view-man-walking-using.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>608</width>
+        <height>342</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>346.5306685044796</xmin>
+        <ymin>48.61764705882353</ymin>
+        <xmax>438.7153687112336</xmax>
+        <ymax>191.1569393382353</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>averie-woodard-4nulm-JUYFo-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/averie-woodard-4nulm-JUYFo-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5760</width>
+        <height>3840</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2279.4805194805194</xmin>
+        <ymin>1076.3636363636363</ymin>
+        <xmax>3281.038961038961</xmax>
+        <ymax>1957.4025974025972</ymax>
+    </bndbox>
+</object>
+</annotation>

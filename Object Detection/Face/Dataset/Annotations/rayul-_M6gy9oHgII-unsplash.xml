@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>rayul-_M6gy9oHgII-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/rayul-_M6gy9oHgII-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3376</width>
+        <height>4220</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1530.8920838971583</xmin>
+        <ymin>1662.4242424242425</ymin>
+        <xmax>1905.4956021650878</xmax>
+        <ymax>2091.7316017316016</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ali-morshedlou-WMD64tMfc4k-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ali-morshedlou-WMD64tMfc4k-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1678.5714285714287</xmin>
+        <ymin>889.6103896103896</ymin>
+        <xmax>2678.5714285714284</xmax>
+        <ymax>2136.363636363636</ymax>
+    </bndbox>
+</object>
+</annotation>

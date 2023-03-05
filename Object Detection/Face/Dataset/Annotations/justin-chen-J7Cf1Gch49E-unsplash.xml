@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>justin-chen-J7Cf1Gch49E-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/justin-chen-J7Cf1Gch49E-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4480</width>
+        <height>6272</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2039.7575757575758</xmin>
+        <ymin>882.4242424242425</ymin>
+        <xmax>4062.5454545454545</xmax>
+        <ymax>4120.242424242424</ymax>
+    </bndbox>
+</object>
+</annotation>

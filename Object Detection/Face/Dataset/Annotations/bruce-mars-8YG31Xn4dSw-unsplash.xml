@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>bruce-mars-8YG31Xn4dSw-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/bruce-mars-8YG31Xn4dSw-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5760</width>
+        <height>3840</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2807.272727272727</xmin>
+        <ymin>274.2857142857143</ymin>
+        <xmax>3804.675324675324</xmax>
+        <ymax>1383.8961038961038</ymax>
+    </bndbox>
+</object>
+</annotation>

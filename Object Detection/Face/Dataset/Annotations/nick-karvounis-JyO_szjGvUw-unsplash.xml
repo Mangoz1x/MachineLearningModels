@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>nick-karvounis-JyO_szjGvUw-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/nick-karvounis-JyO_szjGvUw-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3744</width>
+        <height>5616</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1133.5324675324675</xmin>
+        <ymin>686.8051948051948</ymin>
+        <xmax>1966.2077922077922</xmax>
+        <ymax>1890.2337662337661</ymax>
+    </bndbox>
+</object>
+</annotation>

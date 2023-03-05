@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>juri-gianfrancesco-UCEtRnp8qR0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/juri-gianfrancesco-UCEtRnp8qR0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2832</width>
+        <height>4256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>916.010975609756</xmin>
+        <ymin>1529.2121212121212</ymin>
+        <xmax>1883.0353658536583</xmax>
+        <ymax>2630.060606060606</ymax>
+    </bndbox>
+</object>
+</annotation>

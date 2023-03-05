@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ivana-cajina-dnL6ZIpht2s-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ivana-cajina-dnL6ZIpht2s-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3445</width>
+        <height>5168</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1199.510830965909</xmin>
+        <ymin>2114.1818181818185</ymin>
+        <xmax>2217.351740056818</xmax>
+        <ymax>3378.2164502164505</ymax>
+    </bndbox>
+</object>
+</annotation>

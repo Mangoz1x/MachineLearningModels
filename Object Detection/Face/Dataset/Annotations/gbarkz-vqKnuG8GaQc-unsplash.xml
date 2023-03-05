@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gbarkz-vqKnuG8GaQc-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/gbarkz-vqKnuG8GaQc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3495</width>
+        <height>5236</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1478.4359805510535</xmin>
+        <ymin>668.6666666666667</ymin>
+        <xmax>2027.2734754862236</xmax>
+        <ymax>1473.3333333333335</ymax>
+    </bndbox>
+</object>
+</annotation>

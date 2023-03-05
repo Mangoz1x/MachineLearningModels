@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jonathan-borba-n1B6ftPB5Eg-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/jonathan-borba-n1B6ftPB5Eg-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3264</width>
+        <height>4896</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>988.2077922077922</xmin>
+        <ymin>736.5194805194806</ymin>
+        <xmax>1957.8701298701299</xmax>
+        <ymax>1796.2597402597403</ymax>
+    </bndbox>
+</object>
+</annotation>

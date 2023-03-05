@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jake-nackos-IF9TK5Uy-KI-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/jake-nackos-IF9TK5Uy-KI-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3974</width>
+        <height>5000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1054.1556113760219</xmin>
+        <ymin>1266.2337662337663</ymin>
+        <xmax>2830.0030228201636</xmax>
+        <ymax>3598.484848484849</ymax>
+    </bndbox>
+</object>
+</annotation>

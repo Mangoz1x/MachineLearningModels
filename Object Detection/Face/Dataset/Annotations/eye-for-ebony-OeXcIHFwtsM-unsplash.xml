@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>eye-for-ebony-OeXcIHFwtsM-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/eye-for-ebony-OeXcIHFwtsM-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4608</width>
+        <height>3072</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2495.1688311688313</xmin>
+        <ymin>548.5714285714286</ymin>
+        <xmax>3115.220779220779</xmax>
+        <ymax>1376.4155844155844</ymax>
+    </bndbox>
+</object>
+</annotation>

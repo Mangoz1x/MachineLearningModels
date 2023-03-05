@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>smiling-young-business-man-walking-forward-full-body-picture-happy-isolated-white-background-77112885.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/smiling-young-business-man-walking-forward-full-body-picture-happy-isolated-white-background-77112885.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>900</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>268.34415584415586</xmin>
+        <ymin>53.571428571428555</ymin>
+        <xmax>376.461038961039</xmax>
+        <ymax>179.2207792207792</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>charles-etoroma-95UF6LXe-Lo-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/charles-etoroma-95UF6LXe-Lo-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3456</width>
+        <height>4608</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1266.7012987012986</xmin>
+        <ymin>1231.7922077922078</ymin>
+        <xmax>2084.5714285714284</xmax>
+        <ymax>2308.9870129870133</ymax>
+    </bndbox>
+</object>
+</annotation>

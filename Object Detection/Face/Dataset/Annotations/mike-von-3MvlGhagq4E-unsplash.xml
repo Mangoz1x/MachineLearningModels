@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>mike-von-3MvlGhagq4E-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/mike-von-3MvlGhagq4E-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4160</width>
+        <height>6240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1374.2857142857142</xmin>
+        <ymin>2255.5844155844156</ymin>
+        <xmax>2002.337662337662</xmax>
+        <ymax>2978.181818181818</ymax>
+    </bndbox>
+</object>
+</annotation>

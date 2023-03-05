@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>focused_144210569-stock-photo-businessmen-walking-on-sidewalk.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/focused_144210569-stock-photo-businessmen-walking-on-sidewalk.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>650</width>
+        <height>433</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>314.94626441961066</xmin>
+        <ymin>51.07900432900433</ymin>
+        <xmax>369.3081966474405</xmax>
+        <ymax>115.27922077922076</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>211.8460481254506</xmin>
+        <ymin>49.20454545454545</ymin>
+        <xmax>259.17842015140593</xmax>
+        <ymax>99.81493506493507</ymax>
+    </bndbox>
+</object>
+</annotation>

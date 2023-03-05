@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>millennial-business-people-walking-in-a-london-street-front-view-T4BMGN.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/millennial-business-people-walking-in-a-london-street-front-view-T4BMGN.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1300</width>
+        <height>956</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>662.1616242038217</xmin>
+        <ymin>300.04329004329</ymin>
+        <xmax>726.3335987261147</xmax>
+        <ymax>393.16017316017314</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>875.3781847133758</xmin>
+        <ymin>281.4199134199134</ymin>
+        <xmax>974.7412420382166</xmax>
+        <ymax>403.5064935064935</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>386.84315286624206</xmin>
+        <ymin>215.2034632034632</ymin>
+        <xmax>498.6265923566879</xmax>
+        <ymax>365.2251082251082</ymax>
+    </bndbox>
+</object>
+</annotation>

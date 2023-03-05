@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>juan-encalada-WC7KIHo13Fc-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/juan-encalada-WC7KIHo13Fc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2832</width>
+        <height>4240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1019.399513776337</xmin>
+        <ymin>307.4458874458874</ymin>
+        <xmax>2102.628038897893</xmax>
+        <ymax>1780.4329004329002</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>almos-bechtold-3402kvtHhOo-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/almos-bechtold-3402kvtHhOo-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5460</width>
+        <height>8192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>101.3778409090909</xmin>
+        <ymin>1790.891774891775</ymin>
+        <xmax>4781.377840909091</xmax>
+        <ymax>6906.458874458875</ymax>
+    </bndbox>
+</object>
+</annotation>

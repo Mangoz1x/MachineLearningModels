@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>warren-wong-VVEwJJRRHgk-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/warren-wong-VVEwJJRRHgk-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5771</width>
+        <height>3951</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2348.2760069444444</xmin>
+        <ymin>1013.4058441558442</ymin>
+        <xmax>3399.880451388889</xmax>
+        <ymax>2129.435064935065</ymax>
+    </bndbox>
+</object>
+</annotation>

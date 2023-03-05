@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>aatik-tasneem-7omHUGhhmZ0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/aatik-tasneem-7omHUGhhmZ0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5184</width>
+        <height>3456</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1550.3376623376623</xmin>
+        <ymin>306.7012987012987</ymin>
+        <xmax>3678.545454545454</xmax>
+        <ymax>3025.87012987013</ymax>
+    </bndbox>
+</object>
+</annotation>

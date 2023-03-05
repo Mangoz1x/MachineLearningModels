@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>icons8-team-6LZuSzSwso0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/icons8-team-6LZuSzSwso0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2640</width>
+        <height>3960</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1112.142857142857</xmin>
+        <ymin>745.7142857142857</ymin>
+        <xmax>1669.2857142857142</xmax>
+        <ymax>1474.2857142857142</ymax>
+    </bndbox>
+</object>
+</annotation>

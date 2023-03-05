@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>thought-catalog-1Nxq_3rp-PE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/thought-catalog-1Nxq_3rp-PE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3754</width>
+        <height>5255</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1197.5651041666665</xmin>
+        <ymin>995.2651515151515</ymin>
+        <xmax>2511.4651041666666</xmax>
+        <ymax>2400.0108225108224</ymax>
+    </bndbox>
+</object>
+</annotation>

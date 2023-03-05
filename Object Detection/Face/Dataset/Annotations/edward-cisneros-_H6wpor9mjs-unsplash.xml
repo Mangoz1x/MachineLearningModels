@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>edward-cisneros-_H6wpor9mjs-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/edward-cisneros-_H6wpor9mjs-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>6720</width>
+        <height>4480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2067.878787878788</xmin>
+        <ymin>683.6363636363636</ymin>
+        <xmax>3813.3333333333335</xmax>
+        <ymax>2855.7575757575755</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>joel-muniz-HvZDCuRnSaY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/joel-muniz-HvZDCuRnSaY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2912</width>
+        <height>4368</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1756.1818181818182</xmin>
+        <ymin>1006.909090909091</ymin>
+        <xmax>2200.5454545454545</xmax>
+        <ymax>1654.5454545454545</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>763.4545454545455</xmin>
+        <ymin>1224.3636363636365</ymin>
+        <xmax>1269.2727272727275</xmax>
+        <ymax>1763.2727272727275</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1212.5454545454545</xmin>
+        <ymin>756.3636363636364</ymin>
+        <xmax>1638</xmax>
+        <ymax>1318.909090909091</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1557.6363636363637</xmin>
+        <ymin>274.1818181818182</ymin>
+        <xmax>2002</xmax>
+        <ymax>704.3636363636364</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>744.5454545454546</xmin>
+        <ymin>212.72727272727275</ymin>
+        <xmax>1188.909090909091</xmax>
+        <ymax>652.3636363636365</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>stephanie-nakagawa-ADSKIn0ScDg-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/stephanie-nakagawa-ADSKIn0ScDg-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3160</width>
+        <height>4740</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1115.7467532467533</xmin>
+        <ymin>220.5844155844156</ymin>
+        <xmax>1951.9155844155844</xmax>
+        <ymax>1185</ymax>
+    </bndbox>
+</object>
+</annotation>

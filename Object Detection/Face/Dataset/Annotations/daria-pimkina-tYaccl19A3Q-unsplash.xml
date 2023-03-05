@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>daria-pimkina-tYaccl19A3Q-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/daria-pimkina-tYaccl19A3Q-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2667</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1162.6859019886363</xmin>
+        <ymin>1190.4761904761904</ymin>
+        <xmax>1470.0836292613635</xmax>
+        <ymax>1515.151515151515</ymax>
+    </bndbox>
+</object>
+</annotation>

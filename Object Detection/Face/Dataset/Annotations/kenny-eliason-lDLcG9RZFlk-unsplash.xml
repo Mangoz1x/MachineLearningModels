@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>kenny-eliason-lDLcG9RZFlk-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/kenny-eliason-lDLcG9RZFlk-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3456</width>
+        <height>5184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>950.961038961039</xmin>
+        <ymin>2042.1818181818182</ymin>
+        <xmax>1899.1168831168832</xmax>
+        <ymax>3124.9870129870133</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1944</xmin>
+        <ymin>1352.1038961038962</ymin>
+        <xmax>3200.727272727273</xmax>
+        <ymax>3085.714285714286</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2437.714285714286</xmin>
+        <ymin>2721.038961038961</ymin>
+        <xmax>3456</xmax>
+        <ymax>3910.4415584415583</ymax>
+    </bndbox>
+</object>
+</annotation>

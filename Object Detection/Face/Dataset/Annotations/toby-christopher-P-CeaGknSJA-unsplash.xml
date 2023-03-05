@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>toby-christopher-P-CeaGknSJA-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/toby-christopher-P-CeaGknSJA-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3413</width>
+        <height>5119</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1482.2794744318182</xmin>
+        <ymin>758.9859307359307</ymin>
+        <xmax>2036.3379159902597</xmax>
+        <ymax>1324.0703463203463</ymax>
+    </bndbox>
+</object>
+</annotation>

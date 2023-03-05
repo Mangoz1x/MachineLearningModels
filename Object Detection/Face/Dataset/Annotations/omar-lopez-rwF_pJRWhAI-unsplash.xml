@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>omar-lopez-rwF_pJRWhAI-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/omar-lopez-rwF_pJRWhAI-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5184</width>
+        <height>3456</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2029.090909090909</xmin>
+        <ymin>800.4155844155844</ymin>
+        <xmax>2728.5194805194806</xmax>
+        <ymax>1469.9220779220777</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3244.6753246753246</xmin>
+        <ymin>766.7532467532467</ymin>
+        <xmax>3801.974025974026</xmax>
+        <ymax>1473.6623376623374</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4112.415584415584</xmin>
+        <ymin>706.9090909090909</ymin>
+        <xmax>4823.064935064935</xmax>
+        <ymax>1432.5194805194806</ymax>
+    </bndbox>
+</object>
+</annotation>

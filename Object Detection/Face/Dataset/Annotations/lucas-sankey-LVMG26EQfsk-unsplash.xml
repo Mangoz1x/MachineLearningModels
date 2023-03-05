@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>lucas-sankey-LVMG26EQfsk-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/lucas-sankey-LVMG26EQfsk-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3840</width>
+        <height>5760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1349.6103896103896</xmin>
+        <ymin>1452.4675324675325</ymin>
+        <xmax>1910.6493506493507</xmax>
+        <ymax>2025.974025974026</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>brooke-cagle-6mlAfBZFKmM-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/brooke-cagle-6mlAfBZFKmM-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3648</width>
+        <height>5472</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1193.2987012987014</xmin>
+        <ymin>1314.7012987012988</ymin>
+        <xmax>2555.3766233766237</xmax>
+        <ymax>2919.5844155844156</ymax>
+    </bndbox>
+</object>
+</annotation>

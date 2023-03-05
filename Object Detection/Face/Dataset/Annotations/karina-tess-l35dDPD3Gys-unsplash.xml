@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>karina-tess-l35dDPD3Gys-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/karina-tess-l35dDPD3Gys-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2025</width>
+        <height>2700</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>610.7142857142858</xmin>
+        <ymin>90.5844155844156</ymin>
+        <xmax>1303.2467532467533</xmax>
+        <ymax>1043.1818181818182</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>amy-hirschi-b3AYk8HKCl0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/amy-hirschi-b3AYk8HKCl0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3648</width>
+        <height>5472</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1815.1168831168832</xmin>
+        <ymin>1338.3896103896104</ymin>
+        <xmax>2371.7922077922076</xmax>
+        <ymax>1966.1298701298701</ymax>
+    </bndbox>
+</object>
+</annotation>

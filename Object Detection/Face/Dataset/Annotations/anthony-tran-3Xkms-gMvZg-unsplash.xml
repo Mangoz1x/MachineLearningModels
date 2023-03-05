@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>anthony-tran-3Xkms-gMvZg-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/anthony-tran-3Xkms-gMvZg-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3414</width>
+        <height>5121</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1424.3474025974026</xmin>
+        <ymin>604.1006493506493</ymin>
+        <xmax>2424.715909090909</xmax>
+        <ymax>1945.314935064935</ymax>
+    </bndbox>
+</object>
+</annotation>

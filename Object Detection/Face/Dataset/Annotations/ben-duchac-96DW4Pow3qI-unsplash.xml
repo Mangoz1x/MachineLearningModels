@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ben-duchac-96DW4Pow3qI-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ben-duchac-96DW4Pow3qI-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3000</width>
+        <height>2000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1520.5627705627705</xmin>
+        <ymin>984.8484848484849</ymin>
+        <xmax>1637.4458874458874</xmax>
+        <ymax>1112.5541125541126</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1174.2424242424242</xmin>
+        <ymin>978.3549783549784</ymin>
+        <xmax>1286.7965367965369</xmax>
+        <ymax>1093.073593073593</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>884.1991341991342</xmin>
+        <ymin>976.1904761904761</ymin>
+        <xmax>1007.5757575757575</xmax>
+        <ymax>1110.3896103896104</ymax>
+    </bndbox>
+</object>
+</annotation>

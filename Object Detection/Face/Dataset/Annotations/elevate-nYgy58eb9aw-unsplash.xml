@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>elevate-nYgy58eb9aw-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/elevate-nYgy58eb9aw-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3036</width>
+        <height>2162</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>992.3866525423729</xmin>
+        <ymin>676.2099567099567</ymin>
+        <xmax>1291.7764830508474</xmax>
+        <ymax>1029.5238095238096</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>353.84427966101697</xmin>
+        <ymin>428.1883116883117</ymin>
+        <xmax>685.979872881356</xmax>
+        <ymax>825.9588744588746</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1771.2680084745762</xmin>
+        <ymin>477.32467532467535</ymin>
+        <xmax>2140.8273305084745</xmax>
+        <ymax>877.4350649350649</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>business-people-walking-in-front-of-modern-office-photo.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/business-people-walking-in-front-of-modern-office-photo.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1960</width>
+        <height>980</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1356.1957270847693</xmin>
+        <ymin>23.960055096418735</ymin>
+        <xmax>1535.8511371467955</xmax>
+        <ymax>235.88842975206612</ymax>
+    </bndbox>
+</object>
+</annotation>

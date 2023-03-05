@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>seth-doyle-IMYvZjlX3jE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/seth-doyle-IMYvZjlX3jE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3648</width>
+        <height>3648</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1340.3636363636363</xmin>
+        <ymin>1745.0389610389611</ymin>
+        <xmax>2236.5714285714284</xmax>
+        <ymax>2708.3636363636365</ymax>
+    </bndbox>
+</object>
+</annotation>

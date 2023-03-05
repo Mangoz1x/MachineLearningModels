@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>imansyah-muhamad-putera-n4KewLKFOZw-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/imansyah-muhamad-putera-n4KewLKFOZw-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3456</width>
+        <height>3456</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1045.4025974025974</xmin>
+        <ymin>531.1168831168831</ymin>
+        <xmax>3177.3506493506493</xmax>
+        <ymax>3040.8311688311687</ymax>
+    </bndbox>
+</object>
+</annotation>

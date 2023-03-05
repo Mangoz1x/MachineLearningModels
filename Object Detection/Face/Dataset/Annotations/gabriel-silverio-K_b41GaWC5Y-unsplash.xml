@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gabriel-silverio-K_b41GaWC5Y-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/gabriel-silverio-K_b41GaWC5Y-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3638</width>
+        <height>5457</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1107.3457792207791</xmin>
+        <ymin>1399.685064935065</ymin>
+        <xmax>2601.5243506493507</xmax>
+        <ymax>3242.3084415584417</ymax>
+    </bndbox>
+</object>
+</annotation>

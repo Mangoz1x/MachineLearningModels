@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>guilherme-stecanella-_dH-oQF9w-Y-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/guilherme-stecanella-_dH-oQF9w-Y-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3584</width>
+        <height>5376</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1533.0909090909092</xmin>
+        <ymin>2187.6363636363635</ymin>
+        <xmax>2068.3636363636365</xmax>
+        <ymax>2775.272727272727</ymax>
+    </bndbox>
+</object>
+</annotation>

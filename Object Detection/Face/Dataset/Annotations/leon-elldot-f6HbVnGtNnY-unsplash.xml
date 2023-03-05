@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>leon-elldot-f6HbVnGtNnY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/leon-elldot-f6HbVnGtNnY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3541</width>
+        <height>5311</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1238.954799107143</xmin>
+        <ymin>649.5054112554112</ymin>
+        <xmax>2394.3785004058445</xmax>
+        <ymax>1919.777056277056</ymax>
+    </bndbox>
+</object>
+</annotation>

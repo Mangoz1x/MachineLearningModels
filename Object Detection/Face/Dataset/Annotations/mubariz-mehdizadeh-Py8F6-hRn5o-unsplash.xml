@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>mubariz-mehdizadeh-Py8F6-hRn5o-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/mubariz-mehdizadeh-Py8F6-hRn5o-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3376</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>600.2341346153846</xmin>
+        <ymin>487.012987012987</ymin>
+        <xmax>1976.6033653846155</xmax>
+        <ymax>2064.935064935065</ymax>
+    </bndbox>
+</object>
+</annotation>

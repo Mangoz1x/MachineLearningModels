@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>clarissa-carbungco-ymY5oadXAZI-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/clarissa-carbungco-ymY5oadXAZI-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3538</width>
+        <height>4767</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>770.472348760933</xmin>
+        <ymin>1279.4545454545455</ymin>
+        <xmax>3220.253689868805</xmax>
+        <ymax>3317.295454545455</ymax>
+    </bndbox>
+</object>
+</annotation>

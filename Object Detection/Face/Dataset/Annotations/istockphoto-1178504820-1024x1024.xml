@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>istockphoto-1178504820-1024x1024.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/istockphoto-1178504820-1024x1024.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>682</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>601.1016582552271</xmin>
+        <ymin>329.92857142857144</ymin>
+        <xmax>643.1838500360491</xmax>
+        <ymax>372</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>708.8911319394376</xmin>
+        <ymin>314.42857142857144</ymin>
+        <xmax>753.9264599855803</xmax>
+        <ymax>365.3571428571429</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>775.3366979091564</xmin>
+        <ymin>313.6904761904762</ymin>
+        <xmax>818.8954578226387</xmax>
+        <ymax>360.1904761904762</ymax>
+    </bndbox>
+</object>
+</annotation>

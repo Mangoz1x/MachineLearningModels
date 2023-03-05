@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>omar-lopez-0-uzdU3gUYw-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/omar-lopez-0-uzdU3gUYw-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5472</width>
+        <height>3648</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2919.5844155844156</xmin>
+        <ymin>525.0909090909091</ymin>
+        <xmax>3886.857142857143</xmax>
+        <ymax>1693.7142857142858</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2070.753246753247</xmin>
+        <ymin>686.961038961039</ymin>
+        <xmax>2951.1688311688313</xmax>
+        <ymax>1930.5974025974028</ymax>
+    </bndbox>
+</object>
+</annotation>

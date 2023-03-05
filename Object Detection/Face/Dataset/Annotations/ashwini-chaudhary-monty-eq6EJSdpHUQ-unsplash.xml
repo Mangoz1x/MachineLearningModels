@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ashwini-chaudhary-monty-eq6EJSdpHUQ-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ashwini-chaudhary-monty-eq6EJSdpHUQ-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>5176</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1510.0665266106441</xmin>
+        <ymin>1282.7965367965367</ymin>
+        <xmax>2288.7780112044816</xmax>
+        <ymax>2341.523809523809</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2524.0721288515406</xmin>
+        <ymin>1282.7965367965367</ymin>
+        <xmax>3190.738795518207</xmax>
+        <ymax>2022.2251082251082</ymax>
+    </bndbox>
+</object>
+</annotation>

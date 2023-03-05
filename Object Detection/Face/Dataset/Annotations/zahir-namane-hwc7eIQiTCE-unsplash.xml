@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>zahir-namane-hwc7eIQiTCE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/zahir-namane-hwc7eIQiTCE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2243.5064935064934</xmin>
+        <ymin>1766.2337662337661</ymin>
+        <xmax>3133.116883116883</xmax>
+        <ymax>2837.6623376623374</ymax>
+    </bndbox>
+</object>
+</annotation>

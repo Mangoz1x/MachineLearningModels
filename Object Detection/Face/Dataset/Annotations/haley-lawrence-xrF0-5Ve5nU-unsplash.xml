@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>haley-lawrence-xrF0-5Ve5nU-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/haley-lawrence-xrF0-5Ve5nU-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>750</xmin>
+        <ymin>1603.8961038961038</ymin>
+        <xmax>2821.4285714285716</xmax>
+        <ymax>3922.077922077922</ymax>
+    </bndbox>
+</object>
+</annotation>

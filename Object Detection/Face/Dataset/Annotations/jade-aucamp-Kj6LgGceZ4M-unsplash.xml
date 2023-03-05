@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jade-aucamp-Kj6LgGceZ4M-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/jade-aucamp-Kj6LgGceZ4M-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3456</width>
+        <height>5184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2589.194805194805</xmin>
+        <ymin>1245.5064935064936</ymin>
+        <xmax>3312.935064935065</xmax>
+        <ymax>2047.792207792208</ymax>
+    </bndbox>
+</object>
+</annotation>

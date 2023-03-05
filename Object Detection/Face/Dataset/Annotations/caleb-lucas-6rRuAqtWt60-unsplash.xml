@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>caleb-lucas-6rRuAqtWt60-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/caleb-lucas-6rRuAqtWt60-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3840</width>
+        <height>5760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1380.7792207792209</xmin>
+        <ymin>1271.6883116883118</ymin>
+        <xmax>2502.857142857143</xmax>
+        <ymax>2985.9740259740265</ymax>
+    </bndbox>
+</object>
+</annotation>

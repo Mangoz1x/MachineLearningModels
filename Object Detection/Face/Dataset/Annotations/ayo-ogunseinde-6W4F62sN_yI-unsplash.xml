@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ayo-ogunseinde-6W4F62sN_yI-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ayo-ogunseinde-6W4F62sN_yI-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3000</width>
+        <height>4500</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>596.590909090909</xmin>
+        <ymin>1271.103896103896</ymin>
+        <xmax>2301.1363636363635</xmax>
+        <ymax>3282.4675324675322</ymax>
+    </bndbox>
+</object>
+</annotation>

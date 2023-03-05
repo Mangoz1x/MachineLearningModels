@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>toa-heftiba-ANNsvl-6AG0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/toa-heftiba-ANNsvl-6AG0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2624</width>
+        <height>3936</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1275.7922077922076</xmin>
+        <ymin>1333.2987012987012</ymin>
+        <xmax>1795.4805194805192</xmax>
+        <ymax>1985.038961038961</ymax>
+    </bndbox>
+</object>
+</annotation>

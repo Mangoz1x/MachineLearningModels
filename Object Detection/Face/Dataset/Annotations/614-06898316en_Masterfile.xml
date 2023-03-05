@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>614-06898316en_Masterfile.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/614-06898316en_Masterfile.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>450</width>
+        <height>299</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>251.9573373472322</xmin>
+        <ymin>111.6396103896104</ymin>
+        <xmax>314.0709246944644</xmax>
+        <ymax>168.91558441558442</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>81.14497214234363</xmin>
+        <ymin>102.57900432900433</ymin>
+        <xmax>139.05295201294032</xmax>
+        <ymax>174.74025974025975</ymax>
+    </bndbox>
+</object>
+</annotation>

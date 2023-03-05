@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>why-walking-helps-some-people-take-a-cognitive-step-forward-362948-640x360.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/why-walking-helps-some-people-take-a-cognitive-step-forward-362948-640x360.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>302.57753273604413</xmin>
+        <ymin>50.33547794117647</ymin>
+        <xmax>347.5671950379049</xmax>
+        <ymax>94.89430147058823</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>427.40179186767745</xmin>
+        <ymin>35.33547794117647</ymin>
+        <xmax>465.77532736044105</xmax>
+        <ymax>89.15900735294117</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>186.5747760165403</xmin>
+        <ymin>13.71783088235294</ymin>
+        <xmax>233.328738800827</xmax>
+        <ymax>72.39430147058823</ymax>
+    </bndbox>
+</object>
+</annotation>

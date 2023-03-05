@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>harps-joseph-tAvpDE7fXgY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/harps-joseph-tAvpDE7fXgY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5472</width>
+        <height>3648</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2351.064935064935</xmin>
+        <ymin>671.1688311688312</ymin>
+        <xmax>3263.064935064935</xmax>
+        <ymax>1938.4935064935066</ymax>
+    </bndbox>
+</object>
+</annotation>

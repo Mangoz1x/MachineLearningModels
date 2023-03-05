@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>christian-buehner-DItYlc26zVI-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/christian-buehner-DItYlc26zVI-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>7952</width>
+        <height>5304</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4007.5783393501806</xmin>
+        <ymin>556.8051948051948</ymin>
+        <xmax>6287.857400722021</xmax>
+        <ymax>3254.727272727273</ymax>
+    </bndbox>
+</object>
+</annotation>

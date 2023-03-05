@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>christina-wocintechchat-com-eF7HN40WbAQ-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/christina-wocintechchat-com-eF7HN40WbAQ-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5607</width>
+        <height>3738</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1106.4318181818182</xmin>
+        <ymin>712.0000000000001</ymin>
+        <xmax>1786.068181818182</xmax>
+        <ymax>1521.0909090909092</ymax>
+    </bndbox>
+</object>
+</annotation>

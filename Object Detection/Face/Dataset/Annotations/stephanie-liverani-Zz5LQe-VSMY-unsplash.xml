@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>stephanie-liverani-Zz5LQe-VSMY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/stephanie-liverani-Zz5LQe-VSMY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3648</width>
+        <height>5472</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>991.948051948052</xmin>
+        <ymin>1403.5324675324675</ymin>
+        <xmax>2508</xmax>
+        <ymax>2996.5714285714284</ymax>
+    </bndbox>
+</object>
+</annotation>

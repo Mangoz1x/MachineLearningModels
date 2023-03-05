@@ -1,0 +1,136 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>christopher-burns-pzMP-RGJ7mY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/christopher-burns-pzMP-RGJ7mY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5518</width>
+        <height>3645</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3636.2249374553253</xmin>
+        <ymin>1502.9707792207791</ymin>
+        <xmax>4026.7052805575413</xmax>
+        <ymax>1956.6233766233765</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4417.185623659757</xmin>
+        <ymin>1909.2857142857142</ymin>
+        <xmax>4503.959033238027</xmax>
+        <ymax>2023.685064935065</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4665.673114724804</xmin>
+        <ymin>1861.948051948052</ymin>
+        <xmax>4748.502278413152</xmax>
+        <ymax>1968.4577922077922</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2973.591627948535</xmin>
+        <ymin>1838.2792207792209</ymin>
+        <xmax>3052.4765457469625</xmax>
+        <ymax>1944.7889610389611</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3218.13487312366</xmin>
+        <ymin>1865.892857142857</ymin>
+        <xmax>3324.629512151537</xmax>
+        <ymax>2007.905844155844</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1218.402206933524</xmin>
+        <ymin>1719.935064935065</ymin>
+        <xmax>1419.558747319514</xmax>
+        <ymax>1968.4577922077922</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1447.1684685489636</xmin>
+        <ymin>1779.107142857143</ymin>
+        <xmax>1608.8825500357398</xmax>
+        <ymax>1972.4025974025974</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1715.377189063617</xmin>
+        <ymin>2007.905844155844</ymin>
+        <xmax>1810.03909042173</xmax>
+        <ymax>2142.029220779221</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>512.3821926375983</xmin>
+        <ymin>1877.7272727272727</ymin>
+        <xmax>725.3714706933524</xmax>
+        <ymax>2122.305194805195</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>847.643093280915</xmin>
+        <ymin>1932.9545454545455</ymin>
+        <xmax>942.3049946390279</xmax>
+        <ymax>2051.2987012987014</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>311.2256522516083</xmin>
+        <ymin>1925.064935064935</ymin>
+        <xmax>453.21850428877775</xmax>
+        <ymax>2086.801948051948</ymax>
+    </bndbox>
+</object>
+</annotation>

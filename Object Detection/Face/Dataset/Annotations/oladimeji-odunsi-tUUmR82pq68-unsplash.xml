@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>oladimeji-odunsi-tUUmR82pq68-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/oladimeji-odunsi-tUUmR82pq68-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2452</width>
+        <height>3065</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>640.7363836265223</xmin>
+        <ymin>1038.2521645021645</ymin>
+        <xmax>2226.739089986468</xmax>
+        <ymax>2375.0432900432897</ymax>
+    </bndbox>
+</object>
+</annotation>

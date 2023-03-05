@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>chester-wade-msnyz9L6gs4-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/chester-wade-msnyz9L6gs4-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5811</width>
+        <height>3874</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2056.4902597402597</xmin>
+        <ymin>754.6753246753246</ymin>
+        <xmax>3314.2824675324673</xmax>
+        <ymax>2184.365800865801</ymax>
+    </bndbox>
+</object>
+</annotation>

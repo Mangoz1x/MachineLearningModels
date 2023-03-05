@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>joseph-gonzalez-iFgRcqHznqg-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/joseph-gonzalez-iFgRcqHznqg-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3569</width>
+        <height>5354</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>634.333984375</xmin>
+        <ymin>115.88744588744589</ymin>
+        <xmax>2627.4119064529223</xmax>
+        <ymax>3221.6709956709956</ymax>
+    </bndbox>
+</object>
+</annotation>

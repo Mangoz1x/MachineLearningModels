@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>young-people-holding-hands-and-walking-forward-M538T0.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/young-people-holding-hands-and-walking-forward-M538T0.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>998</width>
+        <height>1390</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>605.45145173454</xmin>
+        <ymin>154.94588744588745</ymin>
+        <xmax>746.9476809954751</xmax>
+        <ymax>329.44805194805195</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>208.05778657616892</xmin>
+        <ymin>185.03246753246754</ymin>
+        <xmax>382.67015460030166</xmax>
+        <ymax>349.004329004329</ymax>
+    </bndbox>
+</object>
+</annotation>

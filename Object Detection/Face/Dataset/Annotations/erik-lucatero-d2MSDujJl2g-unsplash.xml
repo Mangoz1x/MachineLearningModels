@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>erik-lucatero-d2MSDujJl2g-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/erik-lucatero-d2MSDujJl2g-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4516</width>
+        <height>5622</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1123.6745283018868</xmin>
+        <ymin>1551.525974025974</ymin>
+        <xmax>3546.0033692722373</xmax>
+        <ymax>4630.24025974026</ymax>
+    </bndbox>
+</object>
+</annotation>

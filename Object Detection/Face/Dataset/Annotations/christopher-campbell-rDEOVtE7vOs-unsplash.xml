@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>christopher-campbell-rDEOVtE7vOs-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/christopher-campbell-rDEOVtE7vOs-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5184</width>
+        <height>3456</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1961.7662337662337</xmin>
+        <ymin>486.23376623376623</ymin>
+        <xmax>3341.9220779220777</xmax>
+        <ymax>2404.987012987013</ymax>
+    </bndbox>
+</object>
+</annotation>

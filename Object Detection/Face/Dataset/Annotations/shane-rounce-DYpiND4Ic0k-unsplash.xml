@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>shane-rounce-DYpiND4Ic0k-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/shane-rounce-DYpiND4Ic0k-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5390</width>
+        <height>3170</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2392.2536181943487</xmin>
+        <ymin>530.2689038686988</ymin>
+        <xmax>2797.1536871123362</xmax>
+        <ymax>924.1962192262604</ymax>
+    </bndbox>
+</object>
+</annotation>

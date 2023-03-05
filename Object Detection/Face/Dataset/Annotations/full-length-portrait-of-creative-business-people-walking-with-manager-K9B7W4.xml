@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>full-length-portrait-of-creative-business-people-walking-with-manager-K9B7W4.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/full-length-portrait-of-creative-business-people-walking-with-manager-K9B7W4.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1300</width>
+        <height>957</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>139.93774900398407</xmin>
+        <ymin>112.89285714285715</ymin>
+        <xmax>218.6628486055777</xmax>
+        <ymax>215.42857142857144</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>393.72260956175296</xmin>
+        <ymin>94.25000000000001</ymin>
+        <xmax>470.3759960159362</xmax>
+        <ymax>200.92857142857144</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>631.9696215139442</xmin>
+        <ymin>74.57142857142858</ymin>
+        <xmax>714.8381474103585</xmax>
+        <ymax>174.00000000000003</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>865.0373505976096</xmin>
+        <ymin>135.67857142857144</ymin>
+        <xmax>939.6190239043825</xmax>
+        <ymax>239.25000000000003</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1084.6389442231075</xmin>
+        <ymin>81.82142857142858</ymin>
+        <xmax>1186.152888446215</xmax>
+        <ymax>215.42857142857144</ymax>
+    </bndbox>
+</object>
+</annotation>

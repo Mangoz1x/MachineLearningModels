@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gabrielle-henderson-GaA5PrMn-co-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/gabrielle-henderson-GaA5PrMn-co-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3456</width>
+        <height>2304</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1489.8701298701299</xmin>
+        <ymin>655.7922077922078</ymin>
+        <xmax>2043.4285714285716</xmax>
+        <ymax>1481.142857142857</ymax>
+    </bndbox>
+</object>
+</annotation>

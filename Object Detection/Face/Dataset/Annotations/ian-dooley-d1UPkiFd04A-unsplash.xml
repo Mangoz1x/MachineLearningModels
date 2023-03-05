@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ian-dooley-d1UPkiFd04A-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ian-dooley-d1UPkiFd04A-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2662</width>
+        <height>3993</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>671.9821428571428</xmin>
+        <ymin>980.9642857142857</ymin>
+        <xmax>1933.8392857142858</xmax>
+        <ymax>2545.3214285714284</ymax>
+    </bndbox>
+</object>
+</annotation>

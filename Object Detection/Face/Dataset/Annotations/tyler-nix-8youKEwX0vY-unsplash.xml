@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>tyler-nix-8youKEwX0vY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/tyler-nix-8youKEwX0vY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2837</width>
+        <height>4256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>914.0516943993506</xmin>
+        <ymin>1639.757575757576</ymin>
+        <xmax>1614.0906554383116</xmax>
+        <ymax>2303.0303030303035</ymax>
+    </bndbox>
+</object>
+</annotation>

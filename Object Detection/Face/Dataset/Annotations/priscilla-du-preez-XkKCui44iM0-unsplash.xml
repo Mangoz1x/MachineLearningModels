@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>priscilla-du-preez-XkKCui44iM0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/priscilla-du-preez-XkKCui44iM0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5472</width>
+        <height>3648</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2584</xmin>
+        <ymin>1654.2337662337661</ymin>
+        <xmax>3081.4545454545455</xmax>
+        <ymax>2341.194805194805</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5229.194805194805</xmin>
+        <ymin>1200.2077922077922</ymin>
+        <xmax>5472</xmax>
+        <ymax>1784.5194805194806</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1016.6233766233767</xmin>
+        <ymin>1701.6103896103896</ymin>
+        <xmax>1739.1168831168832</xmax>
+        <ymax>2668.8831168831166</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1904.935064935065</xmin>
+        <ymin>2084.5714285714284</ymin>
+        <xmax>2433.974025974026</xmax>
+        <ymax>2720.207792207792</ymax>
+    </bndbox>
+</object>
+</annotation>

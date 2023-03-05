@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ryoji-iwata-pTiB3z-7ov0-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ryoji-iwata-pTiB3z-7ov0-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5504</width>
+        <height>8256</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3149.6103896103896</xmin>
+        <ymin>2090.805194805195</ymin>
+        <xmax>3480.207792207792</xmax>
+        <ymax>2457.142857142857</ymax>
+    </bndbox>
+</object>
+</annotation>

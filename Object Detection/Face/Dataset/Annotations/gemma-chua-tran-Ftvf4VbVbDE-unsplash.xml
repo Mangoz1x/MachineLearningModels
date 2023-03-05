@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gemma-chua-tran-Ftvf4VbVbDE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/gemma-chua-tran-Ftvf4VbVbDE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3602</width>
+        <height>4503</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1014.1287212449256</xmin>
+        <ymin>331.3896103896104</ymin>
+        <xmax>3051.5252029769963</xmax>
+        <ymax>1608.2142857142858</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>692.4345399188092</xmin>
+        <ymin>1608.2142857142858</ymin>
+        <xmax>2763.9501014884977</xmax>
+        <ymax>2772.9512987012986</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>867.9040933694181</xmin>
+        <ymin>2655.9902597402597</ymin>
+        <xmax>3071.0218200270638</xmax>
+        <ymax>4308.064935064935</ymax>
+    </bndbox>
+</object>
+</annotation>

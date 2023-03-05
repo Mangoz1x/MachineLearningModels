@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>hassan-khan-EGVccebWodM-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/hassan-khan-EGVccebWodM-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3456</width>
+        <height>5184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>462.8571428571429</xmin>
+        <ymin>673.2467532467533</ymin>
+        <xmax>2914.597402597403</xmax>
+        <ymax>4005.818181818182</ymax>
+    </bndbox>
+</object>
+</annotation>

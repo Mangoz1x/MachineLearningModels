@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dom-hill-nimElTcTNyY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/dom-hill-nimElTcTNyY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2124</width>
+        <height>2940</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>907.091878742515</xmin>
+        <ymin>162.27272727272725</ymin>
+        <xmax>1221.8763098802394</xmax>
+        <ymax>480.45454545454544</ymax>
+    </bndbox>
+</object>
+</annotation>

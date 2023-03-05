@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>prince-akachi-i2hoD-C2RUA-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/prince-akachi-i2hoD-C2RUA-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>665.5844155844155</xmin>
+        <ymin>1188.3116883116884</ymin>
+        <xmax>2938.311688311688</xmax>
+        <ymax>3772.727272727273</ymax>
+    </bndbox>
+</object>
+</annotation>

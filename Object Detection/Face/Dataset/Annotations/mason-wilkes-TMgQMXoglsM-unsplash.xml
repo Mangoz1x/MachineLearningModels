@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>mason-wilkes-TMgQMXoglsM-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/mason-wilkes-TMgQMXoglsM-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5760</width>
+        <height>3840</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2524.6753246753246</xmin>
+        <ymin>993.2467532467532</ymin>
+        <xmax>3945.9740259740256</xmax>
+        <ymax>2468.5714285714284</ymax>
+    </bndbox>
+</object>
+</annotation>

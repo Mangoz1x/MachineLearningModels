@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>elevate-kDPm1On9jfs-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/elevate-kDPm1On9jfs-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3630</width>
+        <height>5452</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2054.6943597560976</xmin>
+        <ymin>1740.6277056277056</ymin>
+        <xmax>2450.157774390244</xmax>
+        <ymax>2218.5627705627703</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>862.4016768292682</xmin>
+        <ymin>1929.4415584415583</ymin>
+        <xmax>1305.0846036585365</xmax>
+        <ymax>2472.281385281385</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>1451.5064935064934</ymin>
+        <xmax>390.2065548780488</xmax>
+        <ymax>2106.454545454545</ymax>
+    </bndbox>
+</object>
+</annotation>

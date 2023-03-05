@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>joel-mott-LaK153ghdig-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/joel-mott-LaK153ghdig-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2592</width>
+        <height>3872</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>783.0436187399031</xmin>
+        <ymin>1357.714285714286</ymin>
+        <xmax>1791.2907915993537</xmax>
+        <ymax>2426.2857142857147</ymax>
+    </bndbox>
+</object>
+</annotation>

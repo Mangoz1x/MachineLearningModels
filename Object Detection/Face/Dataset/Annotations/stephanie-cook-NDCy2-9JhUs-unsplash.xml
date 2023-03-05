@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>stephanie-cook-NDCy2-9JhUs-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/stephanie-cook-NDCy2-9JhUs-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3072</width>
+        <height>4608</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1154.4935064935064</xmin>
+        <ymin>174.54545454545453</ymin>
+        <xmax>1867.6363636363635</xmax>
+        <ymax>1117.090909090909</ymax>
+    </bndbox>
+</object>
+</annotation>

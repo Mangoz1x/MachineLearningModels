@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>kelly-sikkema-FqqaJI9OxMI-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/kelly-sikkema-FqqaJI9OxMI-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4685</width>
+        <height>3470</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>883.247320713141</xmin>
+        <ymin>322.96536796536793</ymin>
+        <xmax>1878.0590194310898</xmax>
+        <ymax>1648.625541125541</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1878.0590194310896</xmin>
+        <ymin>435.6277056277056</ymin>
+        <xmax>2955.458859174679</xmax>
+        <ymax>1821.374458874459</ymax>
+    </bndbox>
+</object>
+</annotation>

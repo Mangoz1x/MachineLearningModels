@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ravi-patel-VMGAbeeJTKo-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ravi-patel-VMGAbeeJTKo-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4643</width>
+        <height>3095</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1874.5463451479077</xmin>
+        <ymin>0</ymin>
+        <xmax>4172.596850198413</xmax>
+        <ymax>2766.742424242424</ymax>
+    </bndbox>
+</object>
+</annotation>

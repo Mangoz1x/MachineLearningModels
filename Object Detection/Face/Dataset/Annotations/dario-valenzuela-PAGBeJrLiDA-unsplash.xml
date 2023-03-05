@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>dario-valenzuela-PAGBeJrLiDA-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/dario-valenzuela-PAGBeJrLiDA-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>6000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2430.7359307359307</xmin>
+        <ymin>1164.5021645021645</ymin>
+        <xmax>2902.5974025974024</xmax>
+        <ymax>1796.5367965367966</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3006.4935064935066</xmin>
+        <ymin>1203.4632034632034</ymin>
+        <xmax>3430.735930735931</xmax>
+        <ymax>1796.5367965367964</ymax>
+    </bndbox>
+</object>
+</annotation>

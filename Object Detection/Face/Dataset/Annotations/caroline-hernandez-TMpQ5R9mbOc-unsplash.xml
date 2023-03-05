@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>caroline-hernandez-TMpQ5R9mbOc-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/caroline-hernandez-TMpQ5R9mbOc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4898</width>
+        <height>3265</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1109.6479076479077</xmin>
+        <ymin>70.67099567099567</ymin>
+        <xmax>2440.4413104256855</xmax>
+        <ymax>1636.0335497835497</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>744.1642541486292</xmin>
+        <ymin>1537.094155844156</ymin>
+        <xmax>1786.6678616522368</xmax>
+        <ymax>2561.823593073593</ymax>
+    </bndbox>
+</object>
+</annotation>

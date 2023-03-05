@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>eliott-reyna-jCEpN62oWL4-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/eliott-reyna-jCEpN62oWL4-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5977</width>
+        <height>3355</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3151.2095106822876</xmin>
+        <ymin>986.097972972973</ymin>
+        <xmax>3427.1977946243965</xmax>
+        <ymax>1237.5168918918919</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2199.667815299793</xmin>
+        <ymin>668.7331081081081</ymin>
+        <xmax>2553.9214334941416</xmax>
+        <ymax>1064.4087837837837</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1095.7146795313577</xmin>
+        <ymin>540.9628378378379</ymin>
+        <xmax>1429.3721571330116</xmax>
+        <ymax>932.516891891892</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3736.139903514817</xmin>
+        <ymin>1006.7060810810812</ymin>
+        <xmax>3995.6512749827702</xmax>
+        <ymax>1282.8547297297298</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4527.031702274293</xmin>
+        <ymin>705.8277027027027</ymin>
+        <xmax>4811.25844245348</xmax>
+        <ymax>1113.8682432432433</ymax>
+    </bndbox>
+</object>
+</annotation>

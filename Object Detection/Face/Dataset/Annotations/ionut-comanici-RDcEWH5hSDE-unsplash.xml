@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ionut-comanici-RDcEWH5hSDE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ionut-comanici-RDcEWH5hSDE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1600</width>
+        <height>2400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>476.6233766233766</xmin>
+        <ymin>529.8701298701299</ymin>
+        <xmax>1079.2207792207791</xmax>
+        <ymax>1106.4935064935066</ymax>
+    </bndbox>
+</object>
+</annotation>

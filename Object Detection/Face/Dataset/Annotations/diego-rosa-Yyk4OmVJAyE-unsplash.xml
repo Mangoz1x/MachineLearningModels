@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>diego-rosa-Yyk4OmVJAyE-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/diego-rosa-Yyk4OmVJAyE-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3456</width>
+        <height>5184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1467.1168831168832</xmin>
+        <ymin>875.2207792207793</ymin>
+        <xmax>2005.7142857142858</xmax>
+        <ymax>1413.818181818182</ymax>
+    </bndbox>
+</object>
+</annotation>

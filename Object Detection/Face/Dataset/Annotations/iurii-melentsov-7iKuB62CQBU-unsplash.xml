@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>iurii-melentsov-7iKuB62CQBU-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/iurii-melentsov-7iKuB62CQBU-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3376</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1379.3110576923077</xmin>
+        <ymin>2292.2077922077924</ymin>
+        <xmax>1833.7725961538463</xmax>
+        <ymax>2714.2857142857147</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>chanvre-quebec-mXu1SpzHq6w-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/chanvre-quebec-mXu1SpzHq6w-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2732</width>
+        <height>4096</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>974.1897321428572</xmin>
+        <ymin>1046.1645021645022</ymin>
+        <xmax>1909.9884334415588</xmax>
+        <ymax>2052.4329004329006</ymax>
+    </bndbox>
+</object>
+</annotation>

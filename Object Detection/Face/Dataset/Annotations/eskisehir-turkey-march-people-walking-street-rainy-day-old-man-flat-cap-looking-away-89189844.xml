@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>eskisehir-turkey-march-people-walking-street-rainy-day-old-man-flat-cap-looking-away-89189844.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/eskisehir-turkey-march-people-walking-street-rainy-day-old-man-flat-cap-looking-away-89189844.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>532</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>497.1922246220302</xmin>
+        <ymin>104.7878787878788</ymin>
+        <xmax>658.4593232541397</xmax>
+        <ymax>265.42424242424244</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>686.6810655147588</xmin>
+        <ymin>160.06060606060606</ymin>
+        <xmax>734.9172066234701</xmax>
+        <ymax>227.42424242424246</ymax>
+    </bndbox>
+</object>
+</annotation>

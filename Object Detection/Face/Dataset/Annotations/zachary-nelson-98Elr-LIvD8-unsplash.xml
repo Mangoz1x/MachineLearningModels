@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>zachary-nelson-98Elr-LIvD8-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/zachary-nelson-98Elr-LIvD8-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5184</width>
+        <height>3456</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2298.3896103896104</xmin>
+        <ymin>979.9480519480519</ymin>
+        <xmax>2507.844155844156</xmax>
+        <ymax>1350.2337662337661</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2934.2337662337663</xmin>
+        <ymin>755.5324675324675</ymin>
+        <xmax>3267.1168831168834</xmax>
+        <ymax>1163.2207792207791</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1632.6233766233765</xmin>
+        <ymin>1002.3896103896103</ymin>
+        <xmax>1931.8441558441557</xmax>
+        <ymax>1376.4155844155844</ymax>
+    </bndbox>
+</object>
+</annotation>

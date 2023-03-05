@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>naassom-azevedo-Q_Sei-TqSlc-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/naassom-azevedo-Q_Sei-TqSlc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3589</width>
+        <height>4641</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1685.4809877622379</xmin>
+        <ymin>2441.0454545454545</ymin>
+        <xmax>1991.6753933566436</xmax>
+        <ymax>2832.818181818182</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2217.5565122377625</xmin>
+        <ymin>2305.431818181818</ymin>
+        <xmax>2543.82923951049</xmax>
+        <ymax>2702.2272727272725</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2829.9453234265734</xmin>
+        <ymin>2400.863636363636</ymin>
+        <xmax>3156.218050699301</xmax>
+        <ymax>2782.5909090909086</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>977.7201486013986</xmin>
+        <ymin>2355.659090909091</ymin>
+        <xmax>1309.0124562937062</xmax>
+        <ymax>2802.681818181818</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>370.35091783216785</xmin>
+        <ymin>2330.5454545454545</ymin>
+        <xmax>741.799868881119</xmax>
+        <ymax>2747.431818181818</ymax>
+    </bndbox>
+</object>
+</annotation>

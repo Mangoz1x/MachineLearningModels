@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>aiony-haust-3TLl_97HNJo-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/aiony-haust-3TLl_97HNJo-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3276</width>
+        <height>4096</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1024.0963294993232</xmin>
+        <ymin>611.7402597402597</ymin>
+        <xmax>2544.6213633288226</xmax>
+        <ymax>2681.904761904762</ymax>
+    </bndbox>
+</object>
+</annotation>

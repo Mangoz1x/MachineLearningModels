@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>mimi-thian-BYGLQ32Wjx8-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/mimi-thian-BYGLQ32Wjx8-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5184</width>
+        <height>3888</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3662.883116883117</xmin>
+        <ymin>1047.7402597402597</ymin>
+        <xmax>4386.623376623376</xmax>
+        <ymax>1935.5844155844156</ymax>
+    </bndbox>
+</object>
+</annotation>

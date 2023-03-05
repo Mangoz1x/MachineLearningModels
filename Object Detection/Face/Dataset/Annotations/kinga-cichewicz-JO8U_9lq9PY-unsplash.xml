@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>kinga-cichewicz-JO8U_9lq9PY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/kinga-cichewicz-JO8U_9lq9PY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3966</width>
+        <height>5949</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1181.4301948051948</xmin>
+        <ymin>2478.75</ymin>
+        <xmax>1683.6185064935064</xmax>
+        <ymax>3064.6363636363635</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>ben-blennerhassett-ZXfUUM_LR0k-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/ben-blennerhassett-ZXfUUM_LR0k-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3464</width>
+        <height>5242</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>735.9582651391162</xmin>
+        <ymin>1094.9199134199137</ymin>
+        <xmax>2890.3281505728314</xmax>
+        <ymax>3460.627705627706</ymax>
+    </bndbox>
+</object>
+</annotation>

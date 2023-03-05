@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>joshua-rawson-harris--4kwwL-iZ2Q-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/joshua-rawson-harris--4kwwL-iZ2Q-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3992</width>
+        <height>5988</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1778.9025974025974</xmin>
+        <ymin>1671.9740259740258</ymin>
+        <xmax>2569.525974025974</xmax>
+        <ymax>2721.818181818182</ymax>
+    </bndbox>
+</object>
+</annotation>

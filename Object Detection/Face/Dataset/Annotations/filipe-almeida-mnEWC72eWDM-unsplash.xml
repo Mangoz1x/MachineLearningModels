@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>filipe-almeida-mnEWC72eWDM-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/filipe-almeida-mnEWC72eWDM-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2047</width>
+        <height>2048</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>481.3579207251082</xmin>
+        <ymin>540.8138528138528</ymin>
+        <xmax>1398.5202583874457</xmax>
+        <ymax>1604.7099567099567</ymax>
+    </bndbox>
+</object>
+</annotation>

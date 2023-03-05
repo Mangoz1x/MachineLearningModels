@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>istockphoto-845864612-612x612.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/istockphoto-845864612-612x612.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>612</width>
+        <height>408</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>436.48051948051943</xmin>
+        <ymin>81.24675324675324</ymin>
+        <xmax>478.4285714285714</xmax>
+        <ymax>126.72727272727272</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>326.97402597402595</xmin>
+        <ymin>50.33766233766234</ymin>
+        <xmax>369.3636363636363</xmax>
+        <ymax>103.76623376623377</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>220.55844155844156</xmin>
+        <ymin>47.688311688311686</ymin>
+        <xmax>257.64935064935065</xmax>
+        <ymax>95.81818181818181</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>93.38961038961038</xmin>
+        <ymin>60.93506493506493</ymin>
+        <xmax>142.4025974025974</xmax>
+        <ymax>109.94805194805194</ymax>
+    </bndbox>
+</object>
+</annotation>

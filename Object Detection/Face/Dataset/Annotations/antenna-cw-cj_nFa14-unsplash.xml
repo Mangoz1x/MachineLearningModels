@@ -1,0 +1,114 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>antenna-cw-cj_nFa14-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/antenna-cw-cj_nFa14-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5616</width>
+        <height>3744</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2733.0389610389607</xmin>
+        <ymin>664.5194805194805</ymin>
+        <xmax>3097.7142857142853</xmax>
+        <ymax>1187.2207792207791</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4532.103896103896</xmin>
+        <ymin>1045.4025974025974</ymin>
+        <xmax>4896.779220779221</xmax>
+        <ymax>1458.7012987012986</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5143.948051948051</xmin>
+        <ymin>1572.155844155844</ymin>
+        <xmax>5615.999999999999</xmax>
+        <ymax>2111.064935064935</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3567.7402597402593</xmin>
+        <ymin>1612.6753246753244</ymin>
+        <xmax>3944.571428571428</xmax>
+        <ymax>2273.142857142857</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2643.896103896104</xmin>
+        <ymin>1568.103896103896</ymin>
+        <xmax>3008.5714285714284</xmax>
+        <ymax>2050.285714285714</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1533.6623376623374</xmin>
+        <ymin>1422.2337662337661</ymin>
+        <xmax>1938.8571428571427</xmax>
+        <ymax>1940.8831168831166</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1926.7012987012986</xmin>
+        <ymin>1098.077922077922</ymin>
+        <xmax>2307.584415584415</xmax>
+        <ymax>1523.5324675324673</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>747.5844155844155</xmin>
+        <ymin>1000.8311688311687</ymin>
+        <xmax>1124.4155844155844</xmax>
+        <ymax>1507.3246753246751</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>289.71428571428567</xmin>
+        <ymin>1523.5324675324673</ymin>
+        <xmax>686.8051948051948</xmax>
+        <ymax>2025.9740259740256</ymax>
+    </bndbox>
+</object>
+</annotation>

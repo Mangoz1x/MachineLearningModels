@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>atikh-bana-_KaMTEmJnxY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/atikh-bana-_KaMTEmJnxY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5616</width>
+        <height>3744</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2526.38961038961</xmin>
+        <ymin>425.4545454545454</ymin>
+        <xmax>3681.1948051948048</xmax>
+        <ymax>1726.1298701298701</ymax>
+    </bndbox>
+</object>
+</annotation>

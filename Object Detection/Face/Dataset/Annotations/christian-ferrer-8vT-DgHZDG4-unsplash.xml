@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>christian-ferrer-8vT-DgHZDG4-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/christian-ferrer-8vT-DgHZDG4-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3040</width>
+        <height>3670</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>954.5326797385621</xmin>
+        <ymin>718.9069264069263</ymin>
+        <xmax>1820.8333333333335</xmax>
+        <ymax>1692.012987012987</ymax>
+    </bndbox>
+</object>
+</annotation>

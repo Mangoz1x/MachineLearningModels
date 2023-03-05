@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>terricks-noah-n9R0MN3XGvY-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/terricks-noah-n9R0MN3XGvY-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1304</width>
+        <height>2520</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>320.75706066945605</xmin>
+        <ymin>90</ymin>
+        <xmax>847.267520920502</xmax>
+        <ymax>616.3636363636364</ymax>
+    </bndbox>
+</object>
+</annotation>

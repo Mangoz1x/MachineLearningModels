@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>isaiah-mcclean-DrVJk1EaPSc-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/isaiah-mcclean-DrVJk1EaPSc-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3798</width>
+        <height>6000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>772.2802884615385</xmin>
+        <ymin>1181.8181818181818</ymin>
+        <xmax>2927.726442307692</xmax>
+        <ymax>3142.857142857143</ymax>
+    </bndbox>
+</object>
+</annotation>

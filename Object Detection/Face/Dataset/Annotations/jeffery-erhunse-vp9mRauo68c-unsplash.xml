@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jeffery-erhunse-vp9mRauo68c-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/jeffery-erhunse-vp9mRauo68c-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3819</width>
+        <height>5740</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>924.5744664634146</xmin>
+        <ymin>2124.5454545454545</ymin>
+        <xmax>2147.8964176829268</xmax>
+        <ymax>3491.212121212121</ymax>
+    </bndbox>
+</object>
+</annotation>

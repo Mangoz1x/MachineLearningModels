@@ -1,0 +1,103 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>istockphoto-1202580319-612x612.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/istockphoto-1202580319-612x612.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>612</width>
+        <height>408</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>287.67532467532465</xmin>
+        <ymin>96.7012987012987</ymin>
+        <xmax>332.27272727272725</xmax>
+        <ymax>145.71428571428572</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>379.07792207792204</xmin>
+        <ymin>77.71428571428571</ymin>
+        <xmax>426.7662337662337</xmax>
+        <ymax>130.25974025974025</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>480.19480519480516</xmin>
+        <ymin>81.68831168831169</ymin>
+        <xmax>532.7402597402597</xmax>
+        <ymax>128.4935064935065</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>563.6493506493506</xmin>
+        <ymin>104.20779220779221</ymin>
+        <xmax>580.8701298701299</xmax>
+        <ymax>122.75324675324676</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>212.16883116883116</xmin>
+        <ymin>65.35064935064935</ymin>
+        <xmax>257.2077922077922</xmax>
+        <ymax>120.54545454545453</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>122.97402597402596</xmin>
+        <ymin>54.75324675324675</ymin>
+        <xmax>165.8051948051948</xmax>
+        <ymax>110.83116883116882</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>57.62337662337662</xmin>
+        <ymin>100.67532467532467</ymin>
+        <xmax>74.84415584415584</xmax>
+        <ymax>121.87012987012987</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19.649350649350648</xmin>
+        <ymin>103.76623376623377</ymin>
+        <xmax>34.22077922077922</xmax>
+        <ymax>122.31168831168831</ymax>
+    </bndbox>
+</object>
+</annotation>

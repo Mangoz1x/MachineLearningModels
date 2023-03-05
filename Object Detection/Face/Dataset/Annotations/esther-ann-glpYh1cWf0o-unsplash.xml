@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>esther-ann-glpYh1cWf0o-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/esther-ann-glpYh1cWf0o-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5429</width>
+        <height>3611</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3799.5549293556514</xmin>
+        <ymin>1262.2867965367966</ymin>
+        <xmax>4432.742834323254</xmax>
+        <ymax>2391.7012987012986</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2798.961696814255</xmin>
+        <ymin>848.0378787878788</ymin>
+        <xmax>3885.543410277178</xmax>
+        <ymax>2176.7608225108224</ymax>
+    </bndbox>
+</object>
+</annotation>

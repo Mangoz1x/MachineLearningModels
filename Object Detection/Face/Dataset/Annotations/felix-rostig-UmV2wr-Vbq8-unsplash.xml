@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>felix-rostig-UmV2wr-Vbq8-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/felix-rostig-UmV2wr-Vbq8-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>6000</width>
+        <height>4000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2344.155844155844</xmin>
+        <ymin>1506.4935064935064</ymin>
+        <xmax>2681.818181818182</xmax>
+        <ymax>2021.6450216450216</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2976.190476190476</xmin>
+        <ymin>2116.883116883117</ymin>
+        <xmax>3417.748917748918</xmax>
+        <ymax>2614.718614718615</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3681.8181818181824</xmin>
+        <ymin>1887.4458874458874</ymin>
+        <xmax>4203.463203463203</xmax>
+        <ymax>2354.978354978355</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1452.3809523809523</xmin>
+        <ymin>1800.8658008658008</ymin>
+        <xmax>2010.8225108225106</xmax>
+        <ymax>2445.8874458874457</ymax>
+    </bndbox>
+</object>
+</annotation>

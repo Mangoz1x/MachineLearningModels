@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>paola-aguilar-O-FR79xcGh8-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/paola-aguilar-O-FR79xcGh8-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3207</width>
+        <height>4811</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1158.209872159091</xmin>
+        <ymin>1692.1807359307359</ymin>
+        <xmax>2079.7017552759744</xmax>
+        <ymax>2660.628787878788</ymax>
+    </bndbox>
+</object>
+</annotation>

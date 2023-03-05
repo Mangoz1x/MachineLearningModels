@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jurica-koletic-7YVZYZeITc8-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/jurica-koletic-7YVZYZeITc8-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3000</width>
+        <height>4499</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>572.6207386363636</xmin>
+        <ymin>209.3690476190476</ymin>
+        <xmax>2364.828530844156</xmax>
+        <ymax>2643.892857142857</ymax>
+    </bndbox>
+</object>
+</annotation>

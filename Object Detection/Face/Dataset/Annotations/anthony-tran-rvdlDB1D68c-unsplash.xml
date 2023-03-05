@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>anthony-tran-rvdlDB1D68c-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/anthony-tran-rvdlDB1D68c-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2178</width>
+        <height>3268</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>867.6863839285714</xmin>
+        <ymin>923.1038961038961</ymin>
+        <xmax>1260.150669642857</xmax>
+        <ymax>1379.3506493506493</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>956.0792410714286</xmin>
+        <ymin>1435.939393939394</ymin>
+        <xmax>1327.3292410714284</xmax>
+        <ymax>1722.4199134199134</ymax>
+    </bndbox>
+</object>
+</annotation>

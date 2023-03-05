@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>sai-de-silva-httxBNGKapo-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/sai-de-silva-httxBNGKapo-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3264</width>
+        <height>4896</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1523.3766233766235</xmin>
+        <ymin>1557.8181818181818</ymin>
+        <xmax>2021.4545454545455</xmax>
+        <ymax>2204.2597402597403</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>akson-1K8pIbIrhkQ-unsplash.jpg</filename>
+    <path>Face-Detection-PascalVOC-export/Annotations/akson-1K8pIbIrhkQ-unsplash.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>5307</width>
+        <height>3253</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1206.9676085458304</xmin>
+        <ymin>639.3251898200225</ymin>
+        <xmax>1572.7153687112336</xmax>
+        <ymax>1074.7661347019123</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2223.7463818056513</xmin>
+        <ymin>610.0518489876265</ymin>
+        <xmax>2552.919365954514</xmax>
+        <ymax>979.6277769966254</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1532.4831150930393</xmin>
+        <ymin>511.2543236782902</ymin>
+        <xmax>1836.053756030324</xmax>
+        <ymax>906.4444249156354</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3229.5527222605097</xmin>
+        <ymin>719.8268771091114</ymin>
+        <xmax>3620.902825637491</xmax>
+        <ymax>1100.3803079302588</ymax>
+    </bndbox>
+</object><object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3430.7139903514817</xmin>
+        <ymin>1188.2003304274465</ymin>
+        <xmax>3862.2963473466575</xmax>
+        <ymax>1554.117090832396</ymax>
+    </bndbox>
+</object>
+</annotation>
